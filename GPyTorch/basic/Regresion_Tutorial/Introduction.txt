@@ -1,0 +1,10 @@
+##  INTRODUCTION TO PYTORCH
+''' The gaussians process  (GP) are a class  methods flexible  learning automatic don't parametrics, these
+are used for model spacial data, this process are stochstics  or a functions distributions 
+'''
+
+################### import libraries necessaries  for the job #########################
+import math
+import torch
+import GPyTorch
+from matplotlib import pyplot as plt
